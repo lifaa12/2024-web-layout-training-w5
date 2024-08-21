@@ -1,0 +1,12 @@
+nav {
+  width: 296px;
+  .nav-link {
+    border-left: 4px solid transparent;
+  }
+  .active {
+    border-left: 4px solid #198754;
+  }
+  .text-muted {
+    font-size: 14px;
+  }
+}
